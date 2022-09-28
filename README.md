@@ -1,5 +1,5 @@
 # Course-ai-tensorflow-2
-Códigos desenvolvidos durante o curso de Tensorflow 2.o
+Codes developed during the course: Tensorflow 2.0 from AI Expert Academy
 
 
 
