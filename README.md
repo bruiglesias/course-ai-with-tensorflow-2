@@ -1,4 +1,4 @@
-# curso-tensorflow-2
+# Course-ai-tensorflow-2
 Códigos desenvolvidos durante o curso de Tensorflow 2.o
 
 
