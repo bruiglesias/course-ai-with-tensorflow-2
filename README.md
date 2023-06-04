@@ -2,6 +2,6 @@
 Codes developed during the course: Tensorflow 2.0 from AI Expert Academy
 
 
-# Course completion certificate
+# Course Completion Certificate
 
 ![alt text](https://github.com/bruiglesias/curso-tensorflow-2/blob/master/certificado.png)
