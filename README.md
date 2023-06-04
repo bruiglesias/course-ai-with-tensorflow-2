@@ -1,4 +1,4 @@
-# Course-ai-tensorflow-2
+# Course Artificial Intelligence with Tensorflow 2.0
 Codes developed during the course: Tensorflow 2.0 from AI Expert Academy
 
 
